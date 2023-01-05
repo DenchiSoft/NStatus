@@ -1,6 +1,6 @@
 {
-    "sta": 0,
-    "txt": "-",
-    "lnk": "",
+    "sta": 1,
+    "txt": "This is a test",
+    "lnk": "https://twitter.com/VTubeStudio",
     "dbg": "OK"
 }
